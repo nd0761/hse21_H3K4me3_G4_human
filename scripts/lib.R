@@ -6,4 +6,4 @@ library(tibble)  # column_to_rownames
 ###
 
 DATA_DIR <- '../data/'
-OUT_DIR <- '../img/'
+OUT_DIR <- '../img'

@@ -18,7 +18,8 @@ library(clusterProfiler)
 ###
 
 #NAME <- 'H3K4me3_WI38.ENCFF033PCY.hg19.filtered'
-NAME <- 'H3K4me3_WI38.ENCFF325EOP.hg19.filtered'
+#NAME <- 'H3K4me3_WI38.ENCFF325EOP.hg19.filtered'
+NAME <- 'G4_seq_Li_K'
 BED_FN <- paste0(DATA_DIR, NAME, '.bed')
 
 ###

@@ -8,6 +8,8 @@ UCSC GenomeBrowser session: [link](http://genome.ucsc.edu/s/nDenisenko/hg19)
 
 ## Location of DNA secondary structures
 ![G4_seq_Li_K pie chart](https://github.com/nd0761/hse21_H3K4me3_G4_human/blob/master/img/chip_seeker.G4_seq_Li_K.plotAnnoPie.png)
+![intersection pie chart](
+https://github.com/nd0761/hse21_H3K4me3_G4_human/blob/master/imgchip_seeker.H3K4me3_WI38.intersect_with_G4_seq_Li_K.plotAnnoPie.png?raw=true)
 
 ## Отчет
 
